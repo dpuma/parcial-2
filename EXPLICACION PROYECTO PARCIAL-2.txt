@@ -1,0 +1,3 @@
+Intente realizar los requerimientos usando mysql ya que no he logrado que la practica con spring compile correctamente.
+
+Pretendía que este proyecto comenzara siendo una tabla que recibe solamente id, nombre y descripción pero tuve problemas con eclipse y para hacerlo funcionar con base de datos y no pude terminarlo. 
